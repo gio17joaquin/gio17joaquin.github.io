@@ -1,0 +1,23 @@
+h1 {
+	font-family: andale mono;
+	font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.1;
+}
+
+h2 {
+	font-family: andale mono;
+	font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+
+.white {
+    background-color: white;
+}
+
+.skill-item {
+	padding-bottom: 1cm;
+}
+
